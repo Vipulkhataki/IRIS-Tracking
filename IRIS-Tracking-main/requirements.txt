@@ -1,0 +1,14 @@
+Hardware
+
+Webcam (HD recommended)
+CPU (or GPU for better performance)
+
+Software
+
+Python 3.9+
+Required libraries:
+OpenCV
+Mediapipe
+NumPy
+Matplotlib
+ 
